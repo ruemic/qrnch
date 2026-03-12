@@ -49,5 +49,5 @@ Future paid tier: custom colors, logo overlay, scan analytics — $9/month.
 ## Links
 
 - Live tool: https://qrnch.radicchio.page
-- Support: https://bitterdesk.com
+- Support: https://bitterdesk.com/s/qrnch/
 - Source: https://github.com/ruemic/qrnch
